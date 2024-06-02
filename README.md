@@ -1,2 +1,4 @@
 
-# Curso de Laravel 11
+# Api de Laravel 11
+
+Configuração do ambiente laravel usando docker
